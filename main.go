@@ -26,7 +26,7 @@ func main() {
 		src.LinuxSetup()
 
 	case "windows":
-		fmt.Println("Linux.")
+		fmt.Println("Windows.")
 		//do the linux setup
 
 	default:
